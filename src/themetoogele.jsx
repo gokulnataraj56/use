@@ -15,6 +15,11 @@ function ThemeToggle() {
       <h1>{name}</h1>
     </div>
   );
+
+
+
+
+  
 }
 
 export default ThemeToggle;
